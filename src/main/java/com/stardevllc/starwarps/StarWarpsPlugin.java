@@ -1,8 +1,7 @@
-package com.stardevllc.starwarps.plugin;
+package com.stardevllc.starwarps;
 
-import com.stardevllc.starwarps.StarWarps;
-import com.stardevllc.starwarps.commands.*;
 import com.stardevllc.starmclib.plugin.ExtendedJavaPlugin;
+import com.stardevllc.starwarps.commands.*;
 
 public class StarWarpsPlugin extends ExtendedJavaPlugin {
     @Override
