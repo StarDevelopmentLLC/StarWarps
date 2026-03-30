@@ -1,7 +1,7 @@
 package com.stardevllc.starwarps.commands;
 
-import com.stardevllc.starmclib.command.flags.FlagResult;
-import com.stardevllc.starmclib.plugin.ExtendedJavaPlugin;
+import com.stardevllc.command.flags.FlagResult;
+import com.stardevllc.plugin.ExtendedJavaPlugin;
 import com.stardevllc.starwarps.StarWarps;
 import com.stardevllc.starwarps.Warp;
 import org.bukkit.command.CommandSender;

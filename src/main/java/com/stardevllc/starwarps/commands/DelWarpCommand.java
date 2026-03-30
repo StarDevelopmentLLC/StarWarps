@@ -4,9 +4,9 @@ import com.stardevllc.starwarps.StarWarps;
 import com.stardevllc.starwarps.StarWarps.DeleteWarpInfo;
 import com.stardevllc.starwarps.StarWarps.DeleteWarpStatus;
 import com.stardevllc.starwarps.Warp;
-import com.stardevllc.starmclib.actors.Actors;
-import com.stardevllc.starmclib.command.flags.FlagResult;
-import com.stardevllc.starmclib.plugin.ExtendedJavaPlugin;
+import com.stardevllc.actors.Actors;
+import com.stardevllc.command.flags.FlagResult;
+import com.stardevllc.plugin.ExtendedJavaPlugin;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 

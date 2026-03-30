@@ -1,8 +1,8 @@
 package com.stardevllc.starwarps.commands;
 
-import com.stardevllc.starmclib.actors.Actors;
-import com.stardevllc.starmclib.command.flags.FlagResult;
-import com.stardevllc.starmclib.plugin.ExtendedJavaPlugin;
+import com.stardevllc.actors.Actors;
+import com.stardevllc.command.flags.FlagResult;
+import com.stardevllc.plugin.ExtendedJavaPlugin;
 import com.stardevllc.starwarps.StarWarps;
 import com.stardevllc.starwarps.StarWarps.RenameWarpInfo;
 import com.stardevllc.starwarps.StarWarps.RenameWarpStatus;
