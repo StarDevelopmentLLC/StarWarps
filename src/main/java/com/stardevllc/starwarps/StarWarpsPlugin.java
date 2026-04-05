@@ -1,6 +1,6 @@
 package com.stardevllc.starwarps;
 
-import com.stardevllc.plugin.ExtendedJavaPlugin;
+import com.stardevllc.minecraft.plugin.ExtendedJavaPlugin;
 import com.stardevllc.starwarps.commands.*;
 
 public class StarWarpsPlugin extends ExtendedJavaPlugin {

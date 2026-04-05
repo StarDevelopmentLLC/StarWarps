@@ -1,7 +1,7 @@
 package com.stardevllc.starwarps;
 
-import com.stardevllc.Position;
-import com.stardevllc.actors.Actor;
+import com.stardevllc.minecraft.Position;
+import com.stardevllc.minecraft.actors.Actor;
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
 import org.bukkit.entity.Entity;

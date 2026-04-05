@@ -1,8 +1,8 @@
 package com.stardevllc.starwarps.commands;
 
-import com.stardevllc.actors.Actors;
-import com.stardevllc.command.flags.FlagResult;
-import com.stardevllc.plugin.ExtendedJavaPlugin;
+import com.stardevllc.minecraft.actors.Actors;
+import com.stardevllc.minecraft.command.flags.FlagResult;
+import com.stardevllc.minecraft.plugin.ExtendedJavaPlugin;
 import com.stardevllc.starwarps.StarWarps;
 import com.stardevllc.starwarps.StarWarps.SetWarpInfo;
 import com.stardevllc.starwarps.StarWarps.SetWarpStatus;

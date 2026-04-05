@@ -6,10 +6,10 @@ import com.stardevllc.config.file.yaml.YamlConfig;
 import com.stardevllc.starlib.collections.observable.map.ObservableHashMap;
 import com.stardevllc.starlib.collections.observable.map.ObservableMap;
 import com.stardevllc.starwarps.events.*;
-import com.stardevllc.Position;
-import com.stardevllc.actors.Actor;
-import com.stardevllc.actors.Actors;
-import com.stardevllc.plugin.ExtendedJavaPlugin;
+import com.stardevllc.minecraft.Position;
+import com.stardevllc.minecraft.actors.Actor;
+import com.stardevllc.minecraft.actors.Actors;
+import com.stardevllc.minecraft.plugin.ExtendedJavaPlugin;
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
 

@@ -1,6 +1,6 @@
 package com.stardevllc.starwarps.events;
 
-import com.stardevllc.actors.Actor;
+import com.stardevllc.minecraft.actors.Actor;
 import com.stardevllc.starwarps.StarWarps;
 import com.stardevllc.starwarps.Warp;
 import org.bukkit.Location;
